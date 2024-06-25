@@ -1,0 +1,50 @@
+{
+    "First": {
+        "('Total', 'count')": 6,
+        "('tifoid', 'mean')": 5.8333333333,
+        "('Nafsu Makan Kurang', 'mean')": 12.6666666667,
+        "('Sering Jajan Diluar', 'mean')": 11.1666666667,
+        "('Sering Pakai Jamban\/Toilet', 'mean')": 15.0,
+        "('Rentang_Usia_Tifoid', '<lambda>')": "9-24"
+    },
+    "Second": {
+        "('Total', 'count')": 3,
+        "('tifoid', 'mean')": 0.0,
+        "('Nafsu Makan Kurang', 'mean')": 0.0,
+        "('Sering Jajan Diluar', 'mean')": 1.0,
+        "('Sering Pakai Jamban\/Toilet', 'mean')": 1.0,
+        "('Rentang_Usia_Tifoid', '<lambda>')": "0-0"
+    },
+    "Third": {
+        "('Total', 'count')": 7,
+        "('tifoid', 'mean')": 36.2857142857,
+        "('Nafsu Makan Kurang', 'mean')": 72.5714285714,
+        "('Sering Jajan Diluar', 'mean')": 57.1428571429,
+        "('Sering Pakai Jamban\/Toilet', 'mean')": 81.8571428571,
+        "('Rentang_Usia_Tifoid', '<lambda>')": "18-24"
+    },
+    "Fourth": {
+        "('Total', 'count')": 9,
+        "('tifoid', 'mean')": 1.1111111111,
+        "('Nafsu Makan Kurang', 'mean')": 1.2222222222,
+        "('Sering Jajan Diluar', 'mean')": 0.7777777778,
+        "('Sering Pakai Jamban\/Toilet', 'mean')": 1.5555555556,
+        "('Rentang_Usia_Tifoid', '<lambda>')": "3-42"
+    },
+    "Fifth": {
+        "('Total', 'count')": 6,
+        "('tifoid', 'mean')": 0.0,
+        "('Nafsu Makan Kurang', 'mean')": 1.5,
+        "('Sering Jajan Diluar', 'mean')": 1.3333333333,
+        "('Sering Pakai Jamban\/Toilet', 'mean')": 1.6666666667,
+        "('Rentang_Usia_Tifoid', '<lambda>')": "0-0"
+    },
+    "Sistxh": {
+        "('Total', 'count')": 8,
+        "('tifoid', 'mean')": 0.0,
+        "('Nafsu Makan Kurang', 'mean')": 1.0,
+        "('Sering Jajan Diluar', 'mean')": 0.0,
+        "('Sering Pakai Jamban\/Toilet', 'mean')": 1.0,
+        "('Rentang_Usia_Tifoid', '<lambda>')": "0-0"
+    }
+}

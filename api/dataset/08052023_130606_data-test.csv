@@ -1,0 +1,736 @@
+code,Umur,Alamat,Apakah nafsu makan berkurang?,Apakah sering jajan diluar rumah?,Bagaimana kondisi pembuangan sampah disekitar rumah?,Apakah tersedia air bersih di rumah?,Bagaimana sistem ventilasi di rumah pasien?,Apakah sering menggunakan jamban/toilet?,Apa diagnosa/hasil tes darah pasien?
+1,60,Maccini Baji (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+2,29,Maccini Baji (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+3,18,Maccini Baji (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+4,9,Maccini Baji (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Jarang pakai jamban/toilet,tifoid
+5,28,Maccini Baji (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+6,34,Maccini Baji (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+7,30,Barombong (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+8,3,Sapaya (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+9,71,Bili Bili (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+10,18,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+11,21,Bili Bili (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+12,55,Bili Bili (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Jarang pakai jamban/toilet,tbc
+13,17,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+14,32,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+15,49,Bili Bili (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+16,15,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+17,24,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,tifoid
+18,15,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+19,55,Bili Bili (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+20,49,Bili Bili (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+21,20,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+22,26,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+23,18,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+24,28,Bili Bili (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+25,20,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+26,24,Bili Bili (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+27,19,Bili Bili (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+28,61,Bili Bili (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+29,9,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+30,21,Bili Bili (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,tifoid
+31,55,Bili Bili (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+32,77,Bili Bili (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+33,43,Bili Bili (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+34,43,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+35,62,Bili Bili (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi selalu tertutup,Sering Pakai Jamban/Toilet,tbc
+36,22,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+37,17,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+38,15,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+39,15,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+40,52,Bili Bili (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+41,20,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+42,8,Bili Bili (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tidak tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+43,29,Binangae (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+44,22,Bonto Bontoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+45,10,Bonto Bontoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+46,33,Bonto Bontoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+47,9,Bonto Bontoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+48,15,Bonto Bontoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+49,60,Bonto Bontoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+50,14,Bonto Bontoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+51,8,Bonto Bontoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+52,68,Bonto Bontoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi selalu tertutup,Sering Pakai Jamban/Toilet,tbc
+53,13,Bonto Bontoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+54,8.5,Bonto Bontoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+55,16,Bonto Bontoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+56,22,Bonto Bontoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+57,22,Bonto Bontoa (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+58,10,Bonto Bontoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,dbd
+59,20,Bontonompo (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+60,45,Bontonompo (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+61,52,Bontonompo (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+62,18,Bonto-Bonto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+63,31,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+64,55,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+65,14,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+66,34,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+67,7,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+68,16,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+69,9,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+70,12,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+71,17,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+72,33,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+73,62,Bontomanai (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+74,49,Bontomanai (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+75,29,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+76,29,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+77,6,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+78,15,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+79,4,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+80,39,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+81,23,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+82,30,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+83,16,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+84,29,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+85,6,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+86,49,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+87,9,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+88,6,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+89,6,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,tifoid
+90,14,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+91,45,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+92,41,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+93,5,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+94,21,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+95,35,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+96,9,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+97,5,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+98,57,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+99,50,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+100,9,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+101,35,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Jarang pakai jamban/toilet,tbc
+102,16,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+103,19,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+104,13,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+105,51,Bontomanai (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+106,52,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+107,8,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+108,44,Bontomanai (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+109,12,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+110,18,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+111,7,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+112,59,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi selalu tertutup,Sering Pakai Jamban/Toilet,tbc
+113,36,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+114,22,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+115,10,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+116,50,Bontomanai (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+117,27,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+118,46,Bontomanai (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+119,9,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+120,16,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+121,13,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+122,13,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+123,9,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+124,12,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+125,11,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+126,15,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+127,11,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+128,16,Bontomanai (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+129,27,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+130,55,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+131,27,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+132,26,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+133,40,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+134,62,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+135,21,Bontomanai (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi selalu tertutup,Sering Pakai Jamban/Toilet,tbc
+136,10,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+137,7,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+138,11,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+139,11,Bontomanai (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+140,17,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+141,23,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+142,38,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+143,14,Bontomanai (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+144,37,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+145,32,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+146,56,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+147,12,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+148,6,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+149,18,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+150,74,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+151,7,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+152,55,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+153,13,Bontomanai (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+154,30,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+155,59,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+156,45,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Jarang pakai jamban/toilet,dbd
+157,44,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+158,33,Bontomanai (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+159,21,Bontomanai (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+160,32,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+161,22,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+162,49,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+163,60,Bontomanai (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+164,20,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+165,7,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+166,42,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+167,40,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+168,22,Bontomanai (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+169,7,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+170,5,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+171,10,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+172,7,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+173,66,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+174,21,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+175,9,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+176,20,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+177,46,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+178,51,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+179,46,Bontomanai (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+180,12,Bontomanai (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+181,62,Bontomanai (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Jarang pakai jamban/toilet,tbc
+182,33,Bontomarannu (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+183,35,Bontomarannu (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+184,37,Bontomarannu (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+185,33,Bontomarannu (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+186,8,Bontomarannu (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+187,8,Bontomarannu (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+188,21,Bontomarannu (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+189,17,Bontomarannu (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+190,57,Bontoramba (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+191,12,Bontoramba (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+192,14,Bontoramba (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Jarang pakai jamban/toilet,tifoid
+193,9,Bontoramba (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+194,10,Bontoramba (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+195,21,Bontoramba (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+196,19,Bontoramba (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+197,14,Bontoramba (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+198,37,Bontoramba (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+199,17,Bontoramba (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+200,22,Bontoramba (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,tifoid
+201,47,Bontoramba (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+202,15,Bontoramba (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+203,6,Bontoramba (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+204,17,Bontoramba (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+205,21,Bontoramba (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tifoid
+206,30,Bontoramba (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+207,6,Bontoramba (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+208,47,Bontoramba (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+209,14,Bontoramba (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+210,58,Bontotangnga (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+211,45,Borong (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+212,17,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+213,17,Borong Sapiri (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+214,16,Borongloe (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+215,15,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+216,13,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+217,10,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+218,10,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+219,11,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+220,11,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+221,6,Borongloe (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+222,41,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+223,18,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+224,82,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+225,11,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+226,60,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+227,50,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+228,15,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+229,48,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+230,15,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+231,3,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+232,11,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+233,49,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+234,38,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+235,67,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+236,32,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+237,16,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+238,6,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+239,55,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+240,21,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+241,19,Borongloe (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+242,35,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+243,19,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+244,18,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+245,47,Borongloe (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+246,32,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+247,10,Borongloe (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+248,36,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+249,55,Borongloe (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+250,37,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+251,23,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+252,29,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+253,15,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+254,14,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,dbd
+255,13,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,dbd
+256,31,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,tifoid
+257,14,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+258,59,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+259,15,Borongloe (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+260,14,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+261,90,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+262,14,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+263,58,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+264,6,Borongloe (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+265,23,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+266,20,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+267,31,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+268,69,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+269,18,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+270,11,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,dbd
+271,23,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+272,21,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+273,24,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+274,19,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+275,37,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+276,9,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+277,40,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+278,5,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+279,7,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+280,15,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+281,45,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+282,51,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+283,7,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+284,14,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+285,14,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+286,15,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+287,26,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+288,8,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+289,80,Borongloe (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+290,9,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+291,25,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+292,57,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+293,39,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+294,45,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+295,9,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+296,42,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+297,19,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+298,38,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+299,43,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+300,25,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+301,34,Borongloe (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tidak tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+302,13,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+303,26,Borongloe (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+304,9,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+305,27,Borongloe (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+306,52,Borongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+307,14,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+308,14,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tidak tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+309,24,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+310,48,Borongloe (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+311,35,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+312,22,Borongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+313,10,Buntu Alang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+314,44,Gowa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tidak tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+315,35,"Jalan Bangkala, Manggala (Gowa)",Nafsu Makan Normal,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+316,38,Jalan Danau Mawang No. 4 (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+317,42,Jalan Poros Malino (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+318,31,Kampung Beru (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+319,19,Lauwa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+320,23,Lempangang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi selalu tertutup,Sering Pakai Jamban/Toilet,dbd
+321,13,Mata Allo (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+322,10,Mata Allo (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+323,23,Mata Allo (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+324,25,Mata Allo (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+325,67,Mata Allo (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+326,8,Mata Allo (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+327,15,Mata Allo (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+328,16,Mata Allo (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+329,15,Mata Allo (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+330,42,Mata Allo (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+331,50,Mata Allo (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+332,6,Mata Allo (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+333,9,Mata Allo (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+334,15,Mata Allo (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+335,15,Moncongloe (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+336,21,Moncongloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+337,13,Moncongloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+338,35,Nirannuang (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+339,52,Nirannuang (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+340,24,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+341,39,Nirannuang (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+342,46,Nirannuang (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+343,36,Nirannuang (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+344,34,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+345,7,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+346,45,Nirannuang (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+347,62,Nirannuang (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+348,18,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+349,24,Nirannuang (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+350,15,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+351,32,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+352,50,Nirannuang (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+353,16,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+354,7,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+355,9,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+356,64,Nirannuang (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+357,51,Nirannuang (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi selalu tertutup,Sering Pakai Jamban/Toilet,tbc
+358,33,Nirannuang (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+359,6,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+360,22,Nirannuang (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi selalu tertutup,Sering Pakai Jamban/Toilet,tbc
+361,39,Nirannuang (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+362,20,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+363,7,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+364,33,Nirannuang (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+365,25,Nirannuang (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+366,14,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+367,51,Nirannuang (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+368,9,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+369,13,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+370,35,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+371,42,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+372,5,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+373,20,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+374,58,Nirannuang (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+375,56,Nirannuang (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+376,31,Nirannuang (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Jarang pakai jamban/toilet,dbd
+377,10,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tidak tersedia air bersih,Ada ventilasi tapi hanya sedikit,Jarang pakai jamban/toilet,dbd
+378,57,Nirannuang (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tidak tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+379,30,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+380,33,Nirannuang (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi selalu tertutup,Sering Pakai Jamban/Toilet,tbc
+381,7,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+382,38,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+383,19,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,tifoid
+384,9,Nirannuang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+385,18,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+386,22,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+387,25,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+388,10,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+389,18,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+390,20,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+391,49,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+392,16,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+393,20,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+394,11,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+395,10,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+396,51,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+397,20,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+398,34,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+399,36,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+400,76,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+401,38,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+402,12,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+403,18,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+404,15,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+405,25,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Jarang pakai jamban/toilet,dbd
+406,22,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+407,12,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+408,16,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+409,21,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+410,3.5,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+411,71,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+412,16,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+413,40,Pakatto (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+414,28,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+415,64,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+416,19,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+417,25,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+418,46,Pakatto (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+419,31,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+420,10,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+421,27,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,tifoid
+422,9,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+423,49,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+424,20,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,tifoid
+425,17,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+426,20,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+427,11,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+428,17,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+429,60,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+430,44,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+431,14,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+432,9,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+433,18,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+434,56,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+435,47,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+436,67,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+437,16,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+438,44,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+439,13,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+440,35,Pakatto (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+441,20,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Jarang pakai jamban/toilet,tifoid
+442,45,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+443,27,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+444,15,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+445,18,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+446,11,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+447,26,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+448,31,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+449,6,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+450,10,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+451,20,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+452,57,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+453,14,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+454,22,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+455,15,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+456,14,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+457,18,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Jarang pakai jamban/toilet,dbd
+458,8,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+459,47,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+460,64,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+461,21,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+462,18,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+463,33,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+464,17,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+465,5,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+466,11,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+467,40,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+468,24,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+469,75,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+470,29,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+471,23,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+472,9,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+473,27,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+474,30,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+475,17,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,dbd
+476,21,Pakatto (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+477,20,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+478,13,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+479,13,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+480,77,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+481,62,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi selalu tertutup,Sering Pakai Jamban/Toilet,tbc
+482,40,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+483,30,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+484,11,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+485,28,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+486,55,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+487,12,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+488,17,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+489,16,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+490,35,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+491,12,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+492,17,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+493,63,Pakatto (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+494,19,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+495,17,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+496,23,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+497,77,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+498,61,Pakatto (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+499,19,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+500,13,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+501,54,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+502,23,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+503,11,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+504,12,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tidak tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+505,22,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tidak tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+506,44,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+507,38,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+508,52,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Jarang pakai jamban/toilet,tifoid
+509,7,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+510,7,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+511,18,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+512,17,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+513,15,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+514,18,Pakatto (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+515,21,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+516,50,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+517,19,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tidak tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+518,19,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+519,23,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+520,18,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+521,42,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+522,18,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Jarang pakai jamban/toilet,tifoid
+523,38,Pakatto (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+524,9,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+525,14,Pakatto (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+526,33,Palangga (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+527,22,Pallantikang (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+528,31,Panambungan (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tidak tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+529,22,Pattalassang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Jarang pakai jamban/toilet,dbd
+530,20,Pattalassang (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+531,49,Pattalassang (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi selalu tertutup,Sering Pakai Jamban/Toilet,tbc
+532,63,Pattalassang (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+533,49,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+534,11,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+535,13,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+536,54,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+537,32,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+538,16,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+539,58,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+540,2,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+541,46,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+542,62,Romang Lompoa (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+543,14,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+544,5,Romang Lompoa (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+545,15,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+546,59,Romang Lompoa (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+547,19,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,tifoid
+548,26,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+549,49,Romang Lompoa (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+550,38,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+551,11,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+552,27,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Jarang pakai jamban/toilet,tbc
+553,80,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+554,5,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+555,9,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+556,36,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+557,21,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+558,20,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+559,45,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+560,49,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+561,5,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+562,12,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+563,20,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+564,19,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+565,43,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+566,10,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+567,10,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+568,21,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+569,19,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+570,21,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+571,52,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+572,20,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+573,20,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+574,14,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+575,35,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+576,55,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+577,22,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+578,30,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,tifoid
+579,30,Romang Lompoa (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+580,17,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+581,20,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+582,12,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+583,32,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+584,6,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+585,11,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+586,28,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+587,6,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+588,8,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+589,65,Romang Lompoa (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+590,66,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+591,63,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+592,19,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+593,64,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi selalu tertutup,Sering Pakai Jamban/Toilet,tbc
+594,17,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+595,23,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+596,41,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+597,6,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+598,20,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+599,7,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+600,36,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+601,6,Romang Lompoa (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+602,25,Romang Lompoa (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+603,15,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+604,38,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+605,19,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,tifoid
+606,19,Romang Lompoa (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+607,19,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+608,35,Romang Lompoa (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+609,34,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tidak tersedia air bersih,Ada ventilasi tapi selalu tertutup,Sering Pakai Jamban/Toilet,dbd
+610,45,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+611,54,Romang Lompoa (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+612,21,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+613,10,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+614,21,Romang Lompoa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+615,32,Romang Lompoa (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,tifoid
+616,52,Romang Lompoa (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+617,42,Romang Polong (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+618,28,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+619,3,Romangloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+620,48,Romangloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+621,56,Romangloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+622,22,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+623,32,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+624,8,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+625,18,Romangloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+626,9,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+627,11,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+628,36,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+629,14,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+630,32,Romangloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+631,18,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+632,17,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+633,15,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+634,21,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+635,3,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+636,8,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+637,19,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+638,8,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+639,10,Romangloe (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+640,54,Romangloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+641,77,Romangloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+642,14,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+643,39,Romangloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+644,22,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+645,8,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+646,15,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+647,6,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+648,31,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+649,8,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+650,63,Romangloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+651,54,Romangloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+652,65,Romangloe (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+653,15,Romangloe (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+654,45,Samata (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+655,15,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+656,18,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+657,2,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+658,59,Sokkolia (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+659,23,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Jarang pakai jamban/toilet,tifoid
+660,3,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi selalu tertutup,Sering Pakai Jamban/Toilet,tifoid
+661,9,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+662,5,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+663,12,Sokkolia (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+664,13,Sokkolia (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+665,13,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+666,53,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+667,17,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+668,7,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+669,12,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+670,25,Sokkolia (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+671,18,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+672,28,Sokkolia (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+673,10,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+674,11,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+675,22,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+676,6,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+677,12,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,tifoid
+678,13,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+679,30,Sokkolia (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+680,62,Sokkolia (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+681,15,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+682,17,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+683,18,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+684,26,Sokkolia (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,dbd
+685,11,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+686,42,Sokkolia (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+687,49,Sokkolia (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+688,29,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+689,17,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+690,16,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+691,21,Sokkolia (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+692,15,Sokkolia (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+693,63,Sokkolia (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+694,10,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+695,21,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+696,44,Sokkolia (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+697,14,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+698,10,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+699,7,Sokkolia (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+700,16,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+701,11,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+702,56,Sokkolia (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+703,26,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,dbd
+704,23,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+705,32,Sokkolia (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+706,39,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+707,39,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+708,10,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+709,41,Sokkolia (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,dbd
+710,11,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+711,24,Sokkolia (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+712,39,Sokkolia (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+713,11,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+714,19,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+715,55,Sokkolia (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi jarang terbuka,Sering Pakai Jamban/Toilet,tbc
+716,11,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Jarang pakai jamban/toilet,tifoid
+717,11,Sokkolia (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+718,31,Sokkolia (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+719,53,Sokkolia (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tbc
+720,11,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada lalat/nyamuk di sekitar tumpukan sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+721,12,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+722,22,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,tifoid
+723,20,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+724,42,Sokkolia (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+725,14,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+726,16,Sokkolia (Gowa),Nafsu Makan Normal,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+727,12,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+728,19,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+729,20,Sokkolia (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+730,48,Somba Opu (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tbc
+731,20,Sungguminasa (Gowa),Nafsu Makan Normal,Jarang Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+732,20,Sungguminasa (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi tapi hanya sedikit,Sering Pakai Jamban/Toilet,dbd
+733,19,Tangkebajeng (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Ada sampah tapi tidak banyak,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,dbd
+734,7,Tangkebajeng (Gowa),Nafsu Makan Kurang,Sering Jajan Diluar,Bersih tanpa ada sampah,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid
+735,19,Tangkebajeng (Gowa),Nafsu Makan Kurang,Jarang Jajan Diluar,Ada sampah dan jarang dibersihkan,Tersedia air bersih,Ada ventilasi disemua ruangan,Sering Pakai Jamban/Toilet,tifoid

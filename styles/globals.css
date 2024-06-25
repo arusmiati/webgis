@@ -1,0 +1,354 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;0,700;1,400&display=swap");
+
+/* @layer base {
+  @font-face {
+    font-family: Poppins;
+    font-weight: 400;
+    src: url(/fonts/poppins/Poppins-Regular.ttf) format("ttf");
+  }
+
+  @font-face {
+    font-family: Poppins;
+    font-weight: 600;
+    src: url(/fonts/poppins/Poppins-SemiBold.ttf) format("ttf");
+  }
+
+  @font-face {
+    font-family: Poppins;
+    font-weight: 700;
+    src: url(/fonts/poppins/Poppins-Bold.ttf) format("ttf");
+  }
+} */
+
+/* * {
+  font-family: "Poppins", sans-serif;
+} */
+
+.main {
+  min-height: calc(100vh - theme("spacing.16"));
+}
+
+.navbar::-webkit-scrollbar {
+  width: 3px;
+}
+.navbar::-webkit-scrollbar-track {
+  background: white;
+}
+.navbar::-webkit-scrollbar-thumb {
+  background-color: #00031a;
+  border-radius: 50px;
+}
+
+/* events table style */
+/*.hkMDrI{
+  min-height: 630px !important;
+   overflow-x: hidden !important; 
+}
+*/
+/* 
+.hLGqlg{
+  width: 65% !important;
+}
+
+.XlRpR{
+  width: 54% !important;
+}
+
+ */
+/* .hCBnvI{
+  background-color: #FAFAFA !important;
+} */
+/* #rdt_Table{
+  background-color: #FAFAFA !important;
+  width: 400px;
+} */
+
+/* pagination */
+.page-item {
+  /* float: right;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 40px;
+   border: 1px solid #c2c9d1;
+   height: 40px;*/
+  margin-top: 10px;
+}
+
+main{
+  background-color: #00031a !important;
+}
+
+.grid, .bg-\[\#343A40\]{
+  background-color: #00031a !important;
+  color: white !important;
+}
+
+.inputdata{
+  background-color: #00031a !important;
+}
+
+.item{
+  align-items: center;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.input-item{
+  width: 800px;
+}
+
+@media screen and (max-width: 860px){
+  .input-item{
+    width: 500px !important;
+  }
+}
+.btn button{
+  margin-left: 20px !important;
+}
+
+.input-item button, .btn-kec {
+  background-color: #45d9a6 !important;
+}
+
+.px-6::after{
+  color: #00031a;
+}
+.input-item .btn{
+  margin-left: 20px !important;
+}
+.bg-slate-100, .box-btn{
+  background: #101433;
+}
+
+.home .text-center{
+  color: white !important;
+  font-size: 30px !important;
+  font-weight: 800 !important;
+}
+
+.item-center{
+  margin: 30px auto;
+}
+
+.box-btn{
+  background-color: #00031a !important;
+  height: 50vh;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  display: grid;
+}
+.navbar{
+  background-color: #45d9a6 !important;
+}
+.data{
+  background: none !important;
+}
+
+.data .text-center{
+  font-size: 28px !important;
+  font-weight: 700 !important;
+}
+.page-link {
+  float: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #c2c9d1;
+  width: 40px;
+  height: 40px;
+  /* margin-top: 10px; */
+}
+
+.page-item.active {
+  background-color: #101433!important;
+
+  color: white;
+}
+
+.page-item.active .page-link:focus {
+  background-color: #00031a!important;
+  text-align: center;
+  color: white;
+  color: #fceaf5;
+}
+
+.prev {
+  border-radius: 5px 0px 0px 5px !important;
+}
+
+[role="button"] {
+  /* cursor: none; */
+  cursor: context-menu;
+}
+
+.next {
+  border-radius: 0px 5px 5px 0px !important;
+  background-color: transparent;
+}
+
+.disabled {
+  color: #c2c9d1;
+}
+
+.tampil button,
+.btn .btn-cluster{
+  background-color: #45d9a6;
+}
+
+.sc-jqUVSM:nth-child(2n){
+  background-color: #edfff9;
+}
+.text-center h1{
+  margin-left: -35px !important;
+}
+.mapid {
+  height: 93.5vh;
+  width: 100%;
+}
+
+.cluster-mapid {
+  height: 70vh;
+  width: 100%;
+}
+
+.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: #00031a;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    z-index: 100;
+}
+.info h4 {
+    margin: 0 0 5px;
+    color: #777;
+}
+
+.legend {
+  text-align: left;
+  line-height: 18px;
+  color: #555;
+}
+
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
+}
+
+
+.dasboardTable table thead th, .dasboardTable table tbody tr td {
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.dasboardTable table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.table-modal th {
+  font-weight: 500;
+}
+
+/* To fix react-data-table-component's styling */
+
+.rdt_Table{
+  overflow-x: auto;
+}
+/* Header Cells */
+.rdt_TableCol div:first-child {
+	white-space: unset !important;
+	text-overflow: unset !important;
+  font-size: 18px !important;
+}
+
+/* Rows Cells Text */
+.rdt_TableCell div:first-child {
+    white-space: unset !important;
+    overflow: unset !important;
+    text-overflow: unset !important;
+    font-size: 18px !important;
+}
+
+/* Rows Cells Text */
+.rdt_TableBody div{
+	 white-space: unset !important;
+	 overflow: unset !important;
+	 text-overflow: unset !important;
+}
+
+/* Legend */
+.info {
+  padding: 6px 8px;
+  font: 14px/16px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  max-width: 30%;
+}
+
+.info2 {
+  padding: 6px 8px;
+  font: 14px/16px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  max-width: 80%;
+}
+
+.info h4 {
+  margin: 0 0 5px;
+  color: #777;
+  margin-bottom: 10px;
+}
+
+.legend {
+  text-align: left;
+  line-height: 18px;
+  color: #555;
+  font-size: 18px;
+}
+
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
+}
+
+.info.legend.color {
+  width: 280px;
+  font-size: 15px;
+  margin-bottom: 25px;
+}
+
+.visible {
+  visibility: visible;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.leaflet-pane { z-index: 0 !important; }
+.leaflet-container {  z-index: 0 !important;  }
+
+.md\:w-screen {
+  background-color: #00031a !important;
+}

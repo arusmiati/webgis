@@ -1,0 +1,743 @@
+{
+    "Bili Bili (Gowa)": {
+        "tifoid": 14.0,
+        "Tersedia air bersih": 33.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 1.0,
+        "Ada sampah dan jarang dibersihkan": 14.0,
+        "Ada sampah tapi tidak banyak": 12.0,
+        "Bersih tanpa ada sampah": 7.0,
+        "Ada ventilasi tapi hanya sedikit": 13.0,
+        "Ada ventilasi tapi jarang terbuka": 2.0,
+        "Ada ventilasi tapi selalu tertutup": 1.0,
+        "Ada ventilasi disemua ruangan": 18.0,
+        "Rentang_Usia_Tifoid": "9-24",
+        "Total": 8,
+        "Segment": "Ninth",
+        "coord": [
+            -5.2781165,
+            119.5739036519
+        ]
+    },
+    "Binangae (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 1.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 0.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 1.0,
+        "Rentang_Usia_Tifoid": "0-23",
+        "Total": 5,
+        "Segment": "Sixth",
+        "coord": [
+            -4.4025732,
+            119.6123583
+        ]
+    },
+    "Bonto Bontoa (Gowa)": {
+        "tifoid": 3.0,
+        "Tersedia air bersih": 15.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 2.0,
+        "Ada sampah dan jarang dibersihkan": 4.0,
+        "Ada sampah tapi tidak banyak": 7.0,
+        "Bersih tanpa ada sampah": 2.0,
+        "Ada ventilasi tapi hanya sedikit": 5.0,
+        "Ada ventilasi tapi jarang terbuka": 3.0,
+        "Ada ventilasi tapi selalu tertutup": 1.0,
+        "Ada ventilasi disemua ruangan": 6.0,
+        "Rentang_Usia_Tifoid": "9-24",
+        "Total": 8,
+        "Segment": "Ninth",
+        "coord": [
+            -5.2017348,
+            119.4574054
+        ]
+    },
+    "Bonto-Bonto (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 0.0,
+        "Ada sampah tapi tidak banyak": 1.0,
+        "Bersih tanpa ada sampah": 0.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 1.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 0.0,
+        "Rentang_Usia_Tifoid": "0-0",
+        "Total": 7,
+        "Segment": "Eighth",
+        "coord": [
+            -4.6837099,
+            119.5773808
+        ]
+    },
+    "Bontomanai (Gowa)": {
+        "tifoid": 54.0,
+        "Tersedia air bersih": 119.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 5.0,
+        "Ada sampah dan jarang dibersihkan": 43.0,
+        "Ada sampah tapi tidak banyak": 48.0,
+        "Bersih tanpa ada sampah": 23.0,
+        "Ada ventilasi tapi hanya sedikit": 39.0,
+        "Ada ventilasi tapi jarang terbuka": 15.0,
+        "Ada ventilasi tapi selalu tertutup": 2.0,
+        "Ada ventilasi disemua ruangan": 63.0,
+        "Rentang_Usia_Tifoid": "0-23",
+        "Total": 5,
+        "Segment": "Sixth",
+        "coord": [
+            -5.2336719,
+            119.5138276078
+        ]
+    },
+    "Bontomarannu (Gowa)": {
+        "tifoid": 2.0,
+        "Tersedia air bersih": 8.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 4.0,
+        "Ada sampah tapi tidak banyak": 2.0,
+        "Bersih tanpa ada sampah": 2.0,
+        "Ada ventilasi tapi hanya sedikit": 2.0,
+        "Ada ventilasi tapi jarang terbuka": 1.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 5.0,
+        "Rentang_Usia_Tifoid": "9-24",
+        "Total": 8,
+        "Segment": "Ninth",
+        "coord": [
+            -5.2553449,
+            119.5343829384
+        ]
+    },
+    "Bontonompo (Gowa)": {
+        "tifoid": 1.0,
+        "Tersedia air bersih": 3.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 1.0,
+        "Ada sampah tapi tidak banyak": 1.0,
+        "Bersih tanpa ada sampah": 1.0,
+        "Ada ventilasi tapi hanya sedikit": 2.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 1.0,
+        "Rentang_Usia_Tifoid": "3-20",
+        "Total": 10,
+        "Segment": "Eleventh",
+        "coord": [
+            -5.3607953,
+            119.425987551
+        ]
+    },
+    "Bontoramba (Gowa)": {
+        "tifoid": 8.0,
+        "Tersedia air bersih": 20.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 1.0,
+        "Ada sampah dan jarang dibersihkan": 8.0,
+        "Ada sampah tapi tidak banyak": 4.0,
+        "Bersih tanpa ada sampah": 7.0,
+        "Ada ventilasi tapi hanya sedikit": 4.0,
+        "Ada ventilasi tapi jarang terbuka": 2.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 14.0,
+        "Rentang_Usia_Tifoid": "9-24",
+        "Total": 8,
+        "Segment": "Ninth",
+        "coord": [
+            -5.2772402,
+            119.5057069321
+        ]
+    },
+    "Bontotangnga (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 1.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 0.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 1.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 0.0,
+        "Rentang_Usia_Tifoid": "0-23",
+        "Total": 5,
+        "Segment": "Sixth",
+        "coord": [
+            -5.4251861,
+            119.8081549
+        ]
+    },
+    "Borong (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 0.0,
+        "Ada sampah tapi tidak banyak": 1.0,
+        "Bersih tanpa ada sampah": 0.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 1.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 0.0,
+        "Rentang_Usia_Tifoid": "0-0",
+        "Total": 7,
+        "Segment": "Eighth",
+        "coord": [
+            -5.1631596,
+            119.4600966
+        ]
+    },
+    "Borongloe (Gowa)": {
+        "tifoid": 37.0,
+        "Tersedia air bersih": 98.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 4.0,
+        "Ada sampah dan jarang dibersihkan": 35.0,
+        "Ada sampah tapi tidak banyak": 33.0,
+        "Bersih tanpa ada sampah": 28.0,
+        "Ada ventilasi tapi hanya sedikit": 33.0,
+        "Ada ventilasi tapi jarang terbuka": 6.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 61.0,
+        "Rentang_Usia_Tifoid": "0-23",
+        "Total": 5,
+        "Segment": "Sixth",
+        "coord": [
+            -5.2319477,
+            119.4934599
+        ]
+    },
+    "Gowa (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 0.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 0.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 1.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 1.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 0.0,
+        "Rentang_Usia_Tifoid": "0-0",
+        "Total": 9,
+        "Segment": "Tenth",
+        "coord": [
+            -5.3265868,
+            119.7660276663
+        ]
+    },
+    "Jalan Bangkala, Manggala (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 0.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 1.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 1.0,
+        "Rentang_Usia_Tifoid": "0-0",
+        "Total": 4,
+        "Segment": "Fifth",
+        "coord": [
+            -5.1678081,
+            119.4760748
+        ]
+    },
+    "Jalan Danau Mawang No. 4 (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 0.0,
+        "Ada sampah tapi tidak banyak": 1.0,
+        "Bersih tanpa ada sampah": 0.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 1.0,
+        "Rentang_Usia_Tifoid": "0-0",
+        "Total": 0,
+        "Segment": "First",
+        "coord": [
+            -5.2144978,
+            119.497308
+        ]
+    },
+    "Jalan Poros Malino (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 0.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 1.0,
+        "Ada ventilasi tapi hanya sedikit": 1.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 0.0,
+        "Rentang_Usia_Tifoid": "0-0",
+        "Total": 4,
+        "Segment": "Fifth",
+        "coord": [
+            -5.2649001,
+            119.8321268
+        ]
+    },
+    "Maccini Baji (Gowa)": {
+        "tifoid": 1.0,
+        "Tersedia air bersih": 6.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 1.0,
+        "Ada sampah dan jarang dibersihkan": 2.0,
+        "Ada sampah tapi tidak banyak": 1.0,
+        "Bersih tanpa ada sampah": 2.0,
+        "Ada ventilasi tapi hanya sedikit": 2.0,
+        "Ada ventilasi tapi jarang terbuka": 2.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 2.0,
+        "Rentang_Usia_Tifoid": "9-24",
+        "Total": 8,
+        "Segment": "Ninth",
+        "coord": [
+            -4.9586754,
+            119.5680522
+        ]
+    },
+    "Mata Allo (Gowa)": {
+        "tifoid": 7.0,
+        "Tersedia air bersih": 14.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 6.0,
+        "Ada sampah tapi tidak banyak": 5.0,
+        "Bersih tanpa ada sampah": 3.0,
+        "Ada ventilasi tapi hanya sedikit": 7.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 7.0,
+        "Rentang_Usia_Tifoid": "9-24",
+        "Total": 8,
+        "Segment": "Ninth",
+        "coord": [
+            -5.2692269,
+            119.5354501
+        ]
+    },
+    "Nirannuang (Gowa)": {
+        "tifoid": 17.0,
+        "Tersedia air bersih": 45.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 12.0,
+        "Ada sampah tapi tidak banyak": 22.0,
+        "Bersih tanpa ada sampah": 13.0,
+        "Ada ventilasi tapi hanya sedikit": 14.0,
+        "Ada ventilasi tapi jarang terbuka": 6.0,
+        "Ada ventilasi tapi selalu tertutup": 3.0,
+        "Ada ventilasi disemua ruangan": 24.0,
+        "Rentang_Usia_Tifoid": "18-18",
+        "Total": 2,
+        "Segment": "Third",
+        "coord": [
+            -5.2593549,
+            119.5568093
+        ]
+    },
+    "Pakatto (Gowa)": {
+        "tifoid": 48.0,
+        "Tersedia air bersih": 138.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 6.0,
+        "Ada sampah dan jarang dibersihkan": 56.0,
+        "Ada sampah tapi tidak banyak": 51.0,
+        "Bersih tanpa ada sampah": 28.0,
+        "Ada ventilasi tapi hanya sedikit": 47.0,
+        "Ada ventilasi tapi jarang terbuka": 20.0,
+        "Ada ventilasi tapi selalu tertutup": 1.0,
+        "Ada ventilasi disemua ruangan": 73.0,
+        "Rentang_Usia_Tifoid": "0-23",
+        "Total": 5,
+        "Segment": "Sixth",
+        "coord": [
+            -5.2390955,
+            119.5314941182
+        ]
+    },
+    "Palangga (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 0.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 1.0,
+        "Ada ventilasi tapi hanya sedikit": 1.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 0.0,
+        "Rentang_Usia_Tifoid": "0-0",
+        "Total": 4,
+        "Segment": "Fifth",
+        "coord": [
+            -4.8629344,
+            122.7183757
+        ]
+    },
+    "Pattalassang (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 4.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 1.0,
+        "Ada sampah dan jarang dibersihkan": 0.0,
+        "Ada sampah tapi tidak banyak": 2.0,
+        "Bersih tanpa ada sampah": 1.0,
+        "Ada ventilasi tapi hanya sedikit": 2.0,
+        "Ada ventilasi tapi jarang terbuka": 1.0,
+        "Ada ventilasi tapi selalu tertutup": 1.0,
+        "Ada ventilasi disemua ruangan": 0.0,
+        "Rentang_Usia_Tifoid": "0-23",
+        "Total": 5,
+        "Segment": "Sixth",
+        "coord": [
+            -5.2077376,
+            120.2498649
+        ]
+    },
+    "Romang Lompoa (Gowa)": {
+        "tifoid": 46.0,
+        "Tersedia air bersih": 83.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 3.0,
+        "Ada sampah dan jarang dibersihkan": 30.0,
+        "Ada sampah tapi tidak banyak": 26.0,
+        "Bersih tanpa ada sampah": 25.0,
+        "Ada ventilasi tapi hanya sedikit": 25.0,
+        "Ada ventilasi tapi jarang terbuka": 11.0,
+        "Ada ventilasi tapi selalu tertutup": 2.0,
+        "Ada ventilasi disemua ruangan": 46.0,
+        "Rentang_Usia_Tifoid": "19-24",
+        "Total": 3,
+        "Segment": "Fourth",
+        "coord": [
+            -5.2189336,
+            119.5038353448
+        ]
+    },
+    "Romangloe (Gowa)": {
+        "tifoid": 21.0,
+        "Tersedia air bersih": 36.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 1.0,
+        "Ada sampah dan jarang dibersihkan": 7.0,
+        "Ada sampah tapi tidak banyak": 13.0,
+        "Bersih tanpa ada sampah": 15.0,
+        "Ada ventilasi tapi hanya sedikit": 7.0,
+        "Ada ventilasi tapi jarang terbuka": 2.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 27.0,
+        "Rentang_Usia_Tifoid": "19-24",
+        "Total": 3,
+        "Segment": "Fourth",
+        "coord": [
+            -5.2859231,
+            119.5461724
+        ]
+    },
+    "Samata (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 0.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 1.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 1.0,
+        "Rentang_Usia_Tifoid": "0-0",
+        "Total": 4,
+        "Segment": "Fifth",
+        "coord": [
+            -5.1927708,
+            119.4988296
+        ]
+    },
+    "Sokkolia (Gowa)": {
+        "tifoid": 31.0,
+        "Tersedia air bersih": 75.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 3.0,
+        "Ada sampah dan jarang dibersihkan": 38.0,
+        "Ada sampah tapi tidak banyak": 21.0,
+        "Bersih tanpa ada sampah": 13.0,
+        "Ada ventilasi tapi hanya sedikit": 29.0,
+        "Ada ventilasi tapi jarang terbuka": 3.0,
+        "Ada ventilasi tapi selalu tertutup": 1.0,
+        "Ada ventilasi disemua ruangan": 42.0,
+        "Rentang_Usia_Tifoid": "0-23",
+        "Total": 5,
+        "Segment": "Sixth",
+        "coord": [
+            -5.2616435,
+            119.5186915
+        ]
+    },
+    "Somba Opu (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 0.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 1.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 1.0,
+        "Rentang_Usia_Tifoid": "0-0",
+        "Total": 4,
+        "Segment": "Fifth",
+        "coord": [
+            -5.2022636,
+            119.4831344101
+        ]
+    },
+    "Barombong (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 0.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 1.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 1.0,
+        "Rentang_Usia_Tifoid": "0-0",
+        "Total": 4,
+        "Segment": "Fifth",
+        "coord": [
+            -5.2319083,
+            119.4172996018
+        ]
+    },
+    "Borong Sapiri (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 1.0,
+        "Ada sampah dan jarang dibersihkan": 0.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 0.0,
+        "Ada ventilasi tapi hanya sedikit": 1.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 0.0,
+        "Rentang_Usia_Tifoid": "0-0",
+        "Total": 6,
+        "Segment": "Seventh",
+        "coord": [
+            -5.2354449,
+            119.5167815
+        ]
+    },
+    "Kampung Beru (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 1.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 0.0,
+        "Ada ventilasi tapi hanya sedikit": 1.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 0.0,
+        "Rentang_Usia_Tifoid": "0-23",
+        "Total": 5,
+        "Segment": "Sixth",
+        "coord": [
+            -5.3298829,
+            119.5327069
+        ]
+    },
+    "Lempangang (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 1.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 0.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 1.0,
+        "Ada ventilasi disemua ruangan": 0.0,
+        "Rentang_Usia_Tifoid": "0-23",
+        "Total": 5,
+        "Segment": "Sixth",
+        "coord": [
+            -5.26541255,
+            119.4175808063
+        ]
+    },
+    "Moncongloe (Gowa)": {
+        "tifoid": 0.0,
+        "Tersedia air bersih": 3.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 3.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 0.0,
+        "Ada ventilasi tapi hanya sedikit": 1.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 2.0,
+        "Rentang_Usia_Tifoid": "0-23",
+        "Total": 5,
+        "Segment": "Sixth",
+        "coord": [
+            -5.13986315,
+            119.556829179
+        ]
+    },
+    "Sungguminasa (Gowa)": {
+        "tifoid": 1.0,
+        "Tersedia air bersih": 2.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 0.0,
+        "Ada sampah tapi tidak banyak": 2.0,
+        "Bersih tanpa ada sampah": 0.0,
+        "Ada ventilasi tapi hanya sedikit": 1.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 1.0,
+        "Rentang_Usia_Tifoid": "10-42",
+        "Total": 1,
+        "Segment": "Second",
+        "coord": [
+            -5.202972,
+            119.4500726
+        ]
+    },
+    "Tangkebajeng (Gowa)": {
+        "tifoid": 2.0,
+        "Tersedia air bersih": 3.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 1.0,
+        "Ada sampah tapi tidak banyak": 1.0,
+        "Bersih tanpa ada sampah": 1.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 3.0,
+        "Rentang_Usia_Tifoid": "3-20",
+        "Total": 10,
+        "Segment": "Eleventh",
+        "coord": [
+            -5.3123258,
+            119.4308154
+        ]
+    },
+    "Buntu Alang (Gowa)": {
+        "tifoid": 1.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 1.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 0.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 1.0,
+        "Rentang_Usia_Tifoid": "10-42",
+        "Total": 1,
+        "Segment": "Second",
+        "coord": [
+            -2.9591,
+            119.8616
+        ]
+    },
+    "Lauwa (Gowa)": {
+        "tifoid": 1.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 0.0,
+        "Ada sampah tapi tidak banyak": 1.0,
+        "Bersih tanpa ada sampah": 0.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 1.0,
+        "Rentang_Usia_Tifoid": "10-42",
+        "Total": 1,
+        "Segment": "Second",
+        "coord": [
+            -5.459834,
+            119.7319596
+        ]
+    },
+    "Pallantikang (Gowa)": {
+        "tifoid": 1.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 1.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 0.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 1.0,
+        "Rentang_Usia_Tifoid": "10-42",
+        "Total": 1,
+        "Segment": "Second",
+        "coord": [
+            -5.2123549,
+            119.5873346
+        ]
+    },
+    "Panambungan (Gowa)": {
+        "tifoid": 1.0,
+        "Tersedia air bersih": 0.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 1.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 0.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 1.0,
+        "Rentang_Usia_Tifoid": "10-42",
+        "Total": 1,
+        "Segment": "Second",
+        "coord": [
+            -5.1513227,
+            119.4104339
+        ]
+    },
+    "Romang Polong (Gowa)": {
+        "tifoid": 1.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 0.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 1.0,
+        "Ada ventilasi tapi hanya sedikit": 0.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 1.0,
+        "Rentang_Usia_Tifoid": "10-42",
+        "Total": 1,
+        "Segment": "Second",
+        "coord": [
+            -5.20010555,
+            119.48375025
+        ]
+    },
+    "Sapaya (Gowa)": {
+        "tifoid": 1.0,
+        "Tersedia air bersih": 1.0,
+        "Ada lalat\/nyamuk di sekitar tumpukan sampah": 0.0,
+        "Ada sampah dan jarang dibersihkan": 0.0,
+        "Ada sampah tapi tidak banyak": 0.0,
+        "Bersih tanpa ada sampah": 1.0,
+        "Ada ventilasi tapi hanya sedikit": 1.0,
+        "Ada ventilasi tapi jarang terbuka": 0.0,
+        "Ada ventilasi tapi selalu tertutup": 0.0,
+        "Ada ventilasi disemua ruangan": 0.0,
+        "Rentang_Usia_Tifoid": "3-20",
+        "Total": 10,
+        "Segment": "Eleventh",
+        "coord": [
+            -5.397913,
+            119.7575702
+        ]
+    }
+}

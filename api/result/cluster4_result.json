@@ -1,0 +1,82 @@
+{
+    "First": {
+        "('Total', 'count')": 1,
+        "('tbc', 'mean')": 1.0,
+        "('Nafsu Makan Kurang', 'mean')": 1.0,
+        "('Sering Jajan Diluar', 'mean')": 0.0,
+        "('Sering Pakai Jamban\/Toilet', 'mean')": 1.0,
+        "('Rentang_Usia_TB', '<lambda>')": "58-58"
+    },
+    "Second": {
+        "('Total', 'count')": 6,
+        "('tbc', 'mean')": 26.1666666667,
+        "('Nafsu Makan Kurang', 'mean')": 78.8333333333,
+        "('Sering Jajan Diluar', 'mean')": 62.5,
+        "('Sering Pakai Jamban\/Toilet', 'mean')": 89.5,
+        "('Rentang_Usia_TB', '<lambda>')": "41-46"
+    },
+    "Third": {
+        "('Total', 'count')": 1,
+        "('tbc', 'mean')": 1.0,
+        "('Nafsu Makan Kurang', 'mean')": 1.0,
+        "('Sering Jajan Diluar', 'mean')": 0.0,
+        "('Sering Pakai Jamban\/Toilet', 'mean')": 1.0,
+        "('Rentang_Usia_TB', '<lambda>')": "38-38"
+    },
+    "Fourth": {
+        "('Total', 'count')": 6,
+        "('tbc', 'mean')": 1.0,
+        "('Nafsu Makan Kurang', 'mean')": 0.8333333333,
+        "('Sering Jajan Diluar', 'mean')": 0.3333333333,
+        "('Sering Pakai Jamban\/Toilet', 'mean')": 1.0,
+        "('Rentang_Usia_TB', '<lambda>')": "33-48"
+    },
+    "Fifth": {
+        "('Total', 'count')": 4,
+        "('tbc', 'mean')": 0.0,
+        "('Nafsu Makan Kurang', 'mean')": 1.0,
+        "('Sering Jajan Diluar', 'mean')": 0.0,
+        "('Sering Pakai Jamban\/Toilet', 'mean')": 1.0,
+        "('Rentang_Usia_TB', '<lambda>')": "0-0"
+    },
+    "Sixth": {
+        "('Total', 'count')": 3,
+        "('tbc', 'mean')": 0.0,
+        "('Nafsu Makan Kurang', 'mean')": 2.0,
+        "('Sering Jajan Diluar', 'mean')": 1.6666666667,
+        "('Sering Pakai Jamban\/Toilet', 'mean')": 2.6666666667,
+        "('Rentang_Usia_TB', '<lambda>')": "0-0"
+    },
+    "Seventh": {
+        "('Total', 'count')": 5,
+        "('tbc', 'mean')": 2.2,
+        "('Nafsu Makan Kurang', 'mean')": 1.4,
+        "('Sering Jajan Diluar', 'mean')": 1.6,
+        "('Sering Pakai Jamban\/Toilet', 'mean')": 2.6,
+        "('Rentang_Usia_TB', '<lambda>')": "18-48"
+    },
+    "Eighth": {
+        "('Total', 'count')": 6,
+        "('tbc', 'mean')": 5.8333333333,
+        "('Nafsu Makan Kurang', 'mean')": 18.0,
+        "('Sering Jajan Diluar', 'mean')": 14.8333333333,
+        "('Sering Pakai Jamban\/Toilet', 'mean')": 20.1666666667,
+        "('Rentang_Usia_TB', '<lambda>')": "31-64"
+    },
+    "Ninth": {
+        "('Total', 'count')": 1,
+        "('tbc', 'mean')": 1.0,
+        "('Nafsu Makan Kurang', 'mean')": 1.0,
+        "('Sering Jajan Diluar', 'mean')": 0.0,
+        "('Sering Pakai Jamban\/Toilet', 'mean')": 1.0,
+        "('Rentang_Usia_TB', '<lambda>')": "42-42"
+    },
+    "Tenth": {
+        "('Total', 'count')": 6,
+        "('tbc', 'mean')": 0.0,
+        "('Nafsu Makan Kurang', 'mean')": 1.0,
+        "('Sering Jajan Diluar', 'mean')": 1.0,
+        "('Sering Pakai Jamban\/Toilet', 'mean')": 1.0,
+        "('Rentang_Usia_TB', '<lambda>')": "0-0"
+    }
+}

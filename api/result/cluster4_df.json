@@ -1,0 +1,509 @@
+{
+    "Bili Bili (Gowa)": {
+        "tbc": 11.0,
+        "Nafsu Makan Kurang": 26.0,
+        "Sering Jajan Diluar": 19.0,
+        "Sering Pakai Jamban\/Toilet": 31.0,
+        "Rentang_Usia_TB": "31-64",
+        "Total": 7,
+        "Segment": "Eighth",
+        "coord": [
+            -5.2806165,
+            119.5714036519
+        ]
+    },
+    "Binangae (Gowa)": {
+        "tbc": 1.0,
+        "Nafsu Makan Kurang": 0.0,
+        "Sering Jajan Diluar": 1.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "18-48",
+        "Total": 6,
+        "Segment": "Seventh",
+        "coord": [
+            -4.4050732,
+            119.6098583
+        ]
+    },
+    "Bonto Bontoa (Gowa)": {
+        "tbc": 2.0,
+        "Nafsu Makan Kurang": 14.0,
+        "Sering Jajan Diluar": 13.0,
+        "Sering Pakai Jamban\/Toilet": 14.0,
+        "Rentang_Usia_TB": "31-64",
+        "Total": 7,
+        "Segment": "Eighth",
+        "coord": [
+            -5.2042348,
+            119.4549054
+        ]
+    },
+    "Bonto-Bonto (Gowa)": {
+        "tbc": 1.0,
+        "Nafsu Makan Kurang": 0.0,
+        "Sering Jajan Diluar": 1.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "18-48",
+        "Total": 6,
+        "Segment": "Seventh",
+        "coord": [
+            -4.6862099,
+            119.5748808
+        ]
+    },
+    "Bontomanai (Gowa)": {
+        "tbc": 36.0,
+        "Nafsu Makan Kurang": 103.0,
+        "Sering Jajan Diluar": 73.0,
+        "Sering Pakai Jamban\/Toilet": 115.0,
+        "Rentang_Usia_TB": "41-46",
+        "Total": 1,
+        "Segment": "Second",
+        "coord": [
+            -5.2361719,
+            119.5113276078
+        ]
+    },
+    "Bontomarannu (Gowa)": {
+        "tbc": 5.0,
+        "Nafsu Makan Kurang": 5.0,
+        "Sering Jajan Diluar": 6.0,
+        "Sering Pakai Jamban\/Toilet": 8.0,
+        "Rentang_Usia_TB": "31-64",
+        "Total": 7,
+        "Segment": "Eighth",
+        "coord": [
+            -5.2578449,
+            119.5318829384
+        ]
+    },
+    "Bontonompo (Gowa)": {
+        "tbc": 2.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 1.0,
+        "Sering Pakai Jamban\/Toilet": 3.0,
+        "Rentang_Usia_TB": "18-48",
+        "Total": 6,
+        "Segment": "Seventh",
+        "coord": [
+            -5.3632953,
+            119.423487551
+        ]
+    },
+    "Bontoramba (Gowa)": {
+        "tbc": 4.0,
+        "Nafsu Makan Kurang": 17.0,
+        "Sering Jajan Diluar": 16.0,
+        "Sering Pakai Jamban\/Toilet": 18.0,
+        "Rentang_Usia_TB": "31-64",
+        "Total": 7,
+        "Segment": "Eighth",
+        "coord": [
+            -5.2797402,
+            119.5032069321
+        ]
+    },
+    "Bontotangnga (Gowa)": {
+        "tbc": 1.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 0.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "58-58",
+        "Total": 0,
+        "Segment": "First",
+        "coord": [
+            -5.4276861,
+            119.8056549
+        ]
+    },
+    "Borong (Gowa)": {
+        "tbc": 1.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 0.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "33-48",
+        "Total": 3,
+        "Segment": "Fourth",
+        "coord": [
+            -5.1656596,
+            119.4575966
+        ]
+    },
+    "Borongloe (Gowa)": {
+        "tbc": 32.0,
+        "Nafsu Makan Kurang": 87.0,
+        "Sering Jajan Diluar": 66.0,
+        "Sering Pakai Jamban\/Toilet": 96.0,
+        "Rentang_Usia_TB": "41-46",
+        "Total": 1,
+        "Segment": "Second",
+        "coord": [
+            -5.2344477,
+            119.4909599
+        ]
+    },
+    "Gowa (Gowa)": {
+        "tbc": 1.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 0.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "33-48",
+        "Total": 3,
+        "Segment": "Fourth",
+        "coord": [
+            -5.3290868,
+            119.7635276663
+        ]
+    },
+    "Jalan Bangkala, Manggala (Gowa)": {
+        "tbc": 1.0,
+        "Nafsu Makan Kurang": 0.0,
+        "Sering Jajan Diluar": 1.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "33-48",
+        "Total": 3,
+        "Segment": "Fourth",
+        "coord": [
+            -5.1703081,
+            119.4735748
+        ]
+    },
+    "Jalan Danau Mawang No. 4 (Gowa)": {
+        "tbc": 1.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 0.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "38-38",
+        "Total": 2,
+        "Segment": "Third",
+        "coord": [
+            -5.2169978,
+            119.494808
+        ]
+    },
+    "Jalan Poros Malino (Gowa)": {
+        "tbc": 1.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 0.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "42-42",
+        "Total": 8,
+        "Segment": "Ninth",
+        "coord": [
+            -5.2674001,
+            119.8296268
+        ]
+    },
+    "Maccini Baji (Gowa)": {
+        "tbc": 4.0,
+        "Nafsu Makan Kurang": 3.0,
+        "Sering Jajan Diluar": 3.0,
+        "Sering Pakai Jamban\/Toilet": 5.0,
+        "Rentang_Usia_TB": "18-48",
+        "Total": 6,
+        "Segment": "Seventh",
+        "coord": [
+            -4.9611754,
+            119.5655522
+        ]
+    },
+    "Mata Allo (Gowa)": {
+        "tbc": 3.0,
+        "Nafsu Makan Kurang": 11.0,
+        "Sering Jajan Diluar": 10.0,
+        "Sering Pakai Jamban\/Toilet": 14.0,
+        "Rentang_Usia_TB": "31-64",
+        "Total": 7,
+        "Segment": "Eighth",
+        "coord": [
+            -5.2717269,
+            119.5329501
+        ]
+    },
+    "Nirannuang (Gowa)": {
+        "tbc": 22.0,
+        "Nafsu Makan Kurang": 36.0,
+        "Sering Jajan Diluar": 28.0,
+        "Sering Pakai Jamban\/Toilet": 44.0,
+        "Rentang_Usia_TB": "41-46",
+        "Total": 1,
+        "Segment": "Second",
+        "coord": [
+            -5.2618549,
+            119.5543093
+        ]
+    },
+    "Pakatto (Gowa)": {
+        "tbc": 40.0,
+        "Nafsu Makan Kurang": 114.0,
+        "Sering Jajan Diluar": 94.0,
+        "Sering Pakai Jamban\/Toilet": 133.0,
+        "Rentang_Usia_TB": "41-46",
+        "Total": 1,
+        "Segment": "Second",
+        "coord": [
+            -5.2415955,
+            119.5289941182
+        ]
+    },
+    "Palangga (Gowa)": {
+        "tbc": 1.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 1.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "33-48",
+        "Total": 3,
+        "Segment": "Fourth",
+        "coord": [
+            -4.8654344,
+            122.7158757
+        ]
+    },
+    "Pattalassang (Gowa)": {
+        "tbc": 3.0,
+        "Nafsu Makan Kurang": 3.0,
+        "Sering Jajan Diluar": 2.0,
+        "Sering Pakai Jamban\/Toilet": 3.0,
+        "Rentang_Usia_TB": "18-48",
+        "Total": 6,
+        "Segment": "Seventh",
+        "coord": [
+            -5.2102376,
+            120.2473649
+        ]
+    },
+    "Romang Lompoa (Gowa)": {
+        "tbc": 17.0,
+        "Nafsu Makan Kurang": 72.0,
+        "Sering Jajan Diluar": 57.0,
+        "Sering Pakai Jamban\/Toilet": 79.0,
+        "Rentang_Usia_TB": "41-46",
+        "Total": 1,
+        "Segment": "Second",
+        "coord": [
+            -5.2214336,
+            119.5013353448
+        ]
+    },
+    "Romangloe (Gowa)": {
+        "tbc": 10.0,
+        "Nafsu Makan Kurang": 35.0,
+        "Sering Jajan Diluar": 25.0,
+        "Sering Pakai Jamban\/Toilet": 36.0,
+        "Rentang_Usia_TB": "31-64",
+        "Total": 7,
+        "Segment": "Eighth",
+        "coord": [
+            -5.2884231,
+            119.5436724
+        ]
+    },
+    "Samata (Gowa)": {
+        "tbc": 1.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 0.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "33-48",
+        "Total": 3,
+        "Segment": "Fourth",
+        "coord": [
+            -5.1952708,
+            119.4963296
+        ]
+    },
+    "Sokkolia (Gowa)": {
+        "tbc": 10.0,
+        "Nafsu Makan Kurang": 61.0,
+        "Sering Jajan Diluar": 57.0,
+        "Sering Pakai Jamban\/Toilet": 70.0,
+        "Rentang_Usia_TB": "41-46",
+        "Total": 1,
+        "Segment": "Second",
+        "coord": [
+            -5.2641435,
+            119.5161915
+        ]
+    },
+    "Somba Opu (Gowa)": {
+        "tbc": 1.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 0.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "33-48",
+        "Total": 3,
+        "Segment": "Fourth",
+        "coord": [
+            -5.2047636,
+            119.4806344101
+        ]
+    },
+    "Barombong (Gowa)": {
+        "tbc": 0.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 1.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "0-0",
+        "Total": 9,
+        "Segment": "Tenth",
+        "coord": [
+            -5.2344083,
+            119.4147996018
+        ]
+    },
+    "Borong Sapiri (Gowa)": {
+        "tbc": 0.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 1.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "0-0",
+        "Total": 9,
+        "Segment": "Tenth",
+        "coord": [
+            -5.2379449,
+            119.5142815
+        ]
+    },
+    "Kampung Beru (Gowa)": {
+        "tbc": 0.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 0.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "0-0",
+        "Total": 4,
+        "Segment": "Fifth",
+        "coord": [
+            -5.3323829,
+            119.5302069
+        ]
+    },
+    "Lempangang (Gowa)": {
+        "tbc": 0.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 1.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "0-0",
+        "Total": 9,
+        "Segment": "Tenth",
+        "coord": [
+            -5.26791255,
+            119.4150808063
+        ]
+    },
+    "Moncongloe (Gowa)": {
+        "tbc": 0.0,
+        "Nafsu Makan Kurang": 2.0,
+        "Sering Jajan Diluar": 2.0,
+        "Sering Pakai Jamban\/Toilet": 3.0,
+        "Rentang_Usia_TB": "0-0",
+        "Total": 5,
+        "Segment": "Sixth",
+        "coord": [
+            -5.14236315,
+            119.554329179
+        ]
+    },
+    "Sungguminasa (Gowa)": {
+        "tbc": 0.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 1.0,
+        "Sering Pakai Jamban\/Toilet": 2.0,
+        "Rentang_Usia_TB": "0-0",
+        "Total": 5,
+        "Segment": "Sixth",
+        "coord": [
+            -5.205472,
+            119.4475726
+        ]
+    },
+    "Tangkebajeng (Gowa)": {
+        "tbc": 0.0,
+        "Nafsu Makan Kurang": 3.0,
+        "Sering Jajan Diluar": 2.0,
+        "Sering Pakai Jamban\/Toilet": 3.0,
+        "Rentang_Usia_TB": "0-0",
+        "Total": 5,
+        "Segment": "Sixth",
+        "coord": [
+            -5.3148258,
+            119.4283154
+        ]
+    },
+    "Buntu Alang (Gowa)": {
+        "tbc": 0.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 1.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "0-0",
+        "Total": 9,
+        "Segment": "Tenth",
+        "coord": [
+            -2.9616,
+            119.8591
+        ]
+    },
+    "Lauwa (Gowa)": {
+        "tbc": 0.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 1.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "0-0",
+        "Total": 9,
+        "Segment": "Tenth",
+        "coord": [
+            -5.462334,
+            119.7294596
+        ]
+    },
+    "Pallantikang (Gowa)": {
+        "tbc": 0.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 0.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "0-0",
+        "Total": 4,
+        "Segment": "Fifth",
+        "coord": [
+            -5.2148549,
+            119.5848346
+        ]
+    },
+    "Panambungan (Gowa)": {
+        "tbc": 0.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 1.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "0-0",
+        "Total": 9,
+        "Segment": "Tenth",
+        "coord": [
+            -5.1538227,
+            119.4079339
+        ]
+    },
+    "Romang Polong (Gowa)": {
+        "tbc": 0.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 0.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "0-0",
+        "Total": 4,
+        "Segment": "Fifth",
+        "coord": [
+            -5.20260555,
+            119.48125025
+        ]
+    },
+    "Sapaya (Gowa)": {
+        "tbc": 0.0,
+        "Nafsu Makan Kurang": 1.0,
+        "Sering Jajan Diluar": 0.0,
+        "Sering Pakai Jamban\/Toilet": 1.0,
+        "Rentang_Usia_TB": "0-0",
+        "Total": 4,
+        "Segment": "Fifth",
+        "coord": [
+            -5.400413,
+            119.7550702
+        ]
+    }
+}
